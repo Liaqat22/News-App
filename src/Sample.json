@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        { 
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Family: Boy, 11, dies of infection after sprained ankle - ABC News",
+            "description": "Family members say an 11-year-old Florida boy has died just days after a sprained ankle led to a flesh-eating bacterial infection",
+            "url": "https://abcnews.go.com/US/wireStory/family-boy-11-dies-infection-after-sprained-ankle-97300901",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2023-02-18T00:53:58Z",
+            "content": "WINTER PARK, Fla. -- An 11-year-old Florida boy died just days after a sprained ankle led to a flesh-eating bacterial infection, family members said.\r\nJesse Brown, a fifth grader at Lakemont Elementa… [+1197 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Gustaf Kilander",
+            "title": "Trump news – live: Tucker Carlson said Trump was 'demonic force' after 2020 election, Fox News lawsuit shows - The Independent",
+            "description": "Follow all the latest developments in Trumpworld",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-fox-news-today-georgia-grand-jury-texts-b2284453.html",
+            "urlToImage": "https://static.independent.co.uk/2023/02/12/19/GettyImages-1460359013.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-02-18T00:52:24Z",
+            "content": "Trump ally Kari Lake loses election lawsuit \r\nAn Arizona appeals court has rejected Republican Kari Lakes challenge of her defeat in the Arizona governors race to Democrat Katie Hobbs, denying her re… [+1571 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Manori Ravindran",
+            "title": "Sean Penn Grills Zelenskyy, Braves Fox News and Enrolls Miles Teller to Rally Ukrainian Soldiers in Gonzo Documentary ‘Superpower’ - Variety",
+            "description": "On the day that Russia invaded Ukraine on Feb. 24, 2022, Sean Penn and a gonzo documentary camera crew found themselves on the frontlines of war as they waited to see if they could interview Ukrain…",
+            "url": "https://variety.com/2023/film/global/superpower-sean-penn-zelenskyy-ukraine-russia-1235526985/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/02/Zelenskyy-Sean-Penn.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-02-17T23:52:00Z",
+            "content": "On the day that Russia invaded Ukraine on Feb. 24, 2022, Sean Penn and a gonzo documentary camera crew found themselves on the frontlines of war as they waited to see if they could interview Ukrainia… [+2993 chars]"
+        }
+    ]
+}
